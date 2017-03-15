@@ -1,0 +1,9 @@
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Teste-Git\Teste Git.Model\bin\Debug\Teste Git.Model.dll
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Teste-Git\Teste Git.Model\bin\Debug\Teste Git.Model.pdb
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Teste-Git\Teste Git.Model\bin\Debug\TesteGit.DAO.dll
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Teste-Git\Teste Git.Model\bin\Debug\TesteGit.DTO.dll
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Teste-Git\Teste Git.Model\bin\Debug\TesteGit.DAO.pdb
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Teste-Git\Teste Git.Model\bin\Debug\TesteGit.DTO.pdb
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Teste-Git\Teste Git.Model\obj\Debug\TesteGit.Model.csprojResolveAssemblyReference.cache
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Teste-Git\Teste Git.Model\obj\Debug\Teste Git.Model.dll
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Teste-Git\Teste Git.Model\obj\Debug\Teste Git.Model.pdb

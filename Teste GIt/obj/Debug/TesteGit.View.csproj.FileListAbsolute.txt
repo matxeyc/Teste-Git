@@ -1,0 +1,4 @@
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Teste-Git\Teste GIt\bin\Debug\Teste GIt.exe.config
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Teste-Git\Teste GIt\obj\Debug\TesteGit.View.csprojResolveAssemblyReference.cache
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Teste-Git\Teste GIt\obj\Debug\Teste_GIt.Properties.Resources.resources
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Teste-Git\Teste GIt\obj\Debug\TesteGit.View.csproj.GenerateResource.Cache
